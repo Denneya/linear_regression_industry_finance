@@ -9,7 +9,8 @@ Author: Denneya Muscat
 ## Table of Contents
 
 * [The Dataset](https://github.com/Denneya/linear_regression_industry_finance/blob/main/transactions.csv)
-* [Overview]()
+* [Overview](##Overview)
 * [Visuals]()
 * [Findings]()
 
+## Overview
