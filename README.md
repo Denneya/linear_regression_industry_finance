@@ -8,9 +8,14 @@ Author: Denneya Muscat
 
 ## Table of Contents
 
-* [The Dataset](https://github.com/Denneya/linear_regression_industry_finance/blob/main/transactions.csv)
-* [Overview](##Overview)
-* [Visuals]()
-* [Findings]()
+* [Overview](#Overview)
+* [Dataset](#Dataset)
+* [Visuals](#Visuals)
+* [Findings](#Findings)
 
 ## Overview
+This was the first assignment for Machine Learning and Algorithims. It was a rather complicated task in terms of coding due to the nature of the dataset. There were 10 industries and 10 locations, with transactions for each month from January 2013 to November 2016. The task was to predict the total income for December 2016. EDA was performed identifying positive skewness in the monthly amounts and industries, as well as displaying a seasonal trend with peaks towards the end of each month. It was also important to notice majority of the dataset was for Industry 6 and Location 1 as well as Industry 4 and Location 10 having minimal values, which would impact the regression model. 
+
+The dataset was aggregated using the `date`, `industry` and `location` columns with the mean monthly amount. The dataset was then split into training and test sets according to date. A simple linear regression model was produced for Industry 1 and Location 1 and then looped over each combination. 
+
+
