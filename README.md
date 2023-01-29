@@ -18,6 +18,6 @@ This was the first assignment for Machine Learning and Algorithims. It was a rat
 
 The dataset was aggregated using the `date`, `industry` and `location` columns with the mean monthly amount. The dataset was then split into training and test sets according to date. A simple linear regression model was produced for Industry 1 and Location 1 and then looped over each combination. 
 
-##Dataset
+## Dataset 
 The dataset can be found [here](https://github.com/Denneya/linear_regression_industry_finance/blob/main/transactions.csv)
 
