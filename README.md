@@ -6,3 +6,10 @@ A prediction of the following months income presented by developing a linear reg
 
 Author: Denneya Muscat
 
+## Table of Contents
+
+* [The Dataset](https://github.com/Denneya/linear_regression_industry_finance/blob/main/transactions.csv)
+* [Overview]()
+* [Visuals]()
+* [Findings]()
+
