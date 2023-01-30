@@ -51,5 +51,8 @@ Lastly, the table below shows a preview of the December 2016 predictions for all
 
 ## Final Comments 💤
 Hopefully you made it to this point. As mentioned earlier, this was my first ever linear regression model. If you have any comments or feedback, feel free to reach out!
+Thank you for reading!
+
+© Denneya Muscat, 2022
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denneyamuscat)[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/denneyam/)
