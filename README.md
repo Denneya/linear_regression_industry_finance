@@ -50,3 +50,7 @@ The following results were obtained after the linear regression model was looped
 Lastly, the table below shows a preview of the December 2016 predictions for all Industries and Locations. 
 ![Table of results](https://github.com/Denneya/linear_regression_industry_finance/blob/main/Screenshot%202023-01-30%20at%2012.17.55%20pm.png)
 
+## Final Comments 💤
+Hopefully you made it to this point. As mentioned earlier, this was my first ever linear regression model. If you have any comments or feedback, feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denneyamuscat)[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/denneyam/)
