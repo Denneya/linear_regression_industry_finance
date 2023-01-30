@@ -21,3 +21,12 @@ The dataset was aggregated using the `date`, `industry` and `location` columns w
 ## Dataset 
 The dataset can be found [here](https://github.com/Denneya/linear_regression_industry_finance/blob/main/transactions.csv)
 
+The data dictionary below identifies all variables and their data type.
+
+|Field|Data Type|Description|
+|---|---|---|
+|date|Date|Date of the first day of each month|
+|customer_id|String|Unique customer identifier|
+|industry|Integer|Code for 10 industries, ranging from 1 to 10|
+|location|Integer|Code for 10 locations, ranging from 1 to 10|
+|monthly_amount|Numeric|Total transaction amount for customer in given month|
