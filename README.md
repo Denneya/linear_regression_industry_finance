@@ -30,3 +30,11 @@ The data dictionary below identifies all variables and their data type.
 |industry|Integer|Code for 10 industries, ranging from 1 to 10|
 |location|Integer|Code for 10 locations, ranging from 1 to 10|
 |monthly_amount|Numeric|Total transaction amount for customer in given month|
+
+### Data Preparation
+The dataset was prepared by doing the following:
+* Applying a log transformation due to the skewness of the data. 
+* Search for any duplicate values.
+* Search for any missing values.
+
+
