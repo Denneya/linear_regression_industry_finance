@@ -6,8 +6,7 @@ A prediction of the following months income presented by developing a linear reg
 
 Author: Denneya Muscat
 
-## Table of Contents
-
+## Table of Contents 🗂️
 * [Overview](#Overview)
 * [Dataset](#Dataset)
 * [Model](#Model)
@@ -37,7 +36,7 @@ The dataset was prepared by doing the following:
 * Search for any duplicate values.
 * Search for any missing values.
 
-## Model
+## Model 📈
 After aggregating and splitting the dataset, dummy variables had to be created to accomodate for seasonality. The linear regression model was then built and the performance was checked before looping over all industries and locations. Next, a prediction dataset was created for December 2016. The predicted results were then put into this dataset. 
 
 ## Results 🕵🏼
